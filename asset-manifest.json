@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/geometrium/static/css/main.897ea835.css",
+    "main.js": "/geometrium/static/js/main.957a5ffc.js",
+    "static/media/bootstrap-icons.woff?": "/geometrium/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/geometrium/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/Stolzl-Book.woff2": "/geometrium/static/media/Stolzl-Book.a838b6f4a4c2ec153c03.woff2",
+    "static/media/Stolzl-Regular.woff2": "/geometrium/static/media/Stolzl-Regular.5cbda06fcf6155861c21.woff2",
+    "index.html": "/geometrium/index.html",
+    "main.897ea835.css.map": "/geometrium/static/css/main.897ea835.css.map",
+    "main.957a5ffc.js.map": "/geometrium/static/js/main.957a5ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897ea835.css",
+    "static/js/main.957a5ffc.js"
+  ]
+}
